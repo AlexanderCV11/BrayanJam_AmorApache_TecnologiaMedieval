@@ -7,8 +7,8 @@
 #pragma once
 
 
-#include "../../../../../../../../../Users/hadut/Documents/UnrealEngine/CallOfTheKnights/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
-#include "../../../../../../../../../Users/hadut/Documents/UnrealEngine/CallOfTheKnights/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
-#include "../../../../../../../../../Users/hadut/Documents/UnrealEngine/CallOfTheKnights/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
-#include "../../../../../../../../../Users/hadut/Documents/UnrealEngine/CallOfTheKnights/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
+#include "../../../../../../../../../Users/Alumnos/Documents/Unreal Projects/CallOfTheKnight/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h"
+#include "../../../../../../../../../Users/Alumnos/Documents/Unreal Projects/CallOfTheKnight/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h"
+#include "../../../../../../../../../Users/Alumnos/Documents/Unreal Projects/CallOfTheKnight/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h"
+#include "../../../../../../../../../Users/Alumnos/Documents/Unreal Projects/CallOfTheKnight/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h"
 
